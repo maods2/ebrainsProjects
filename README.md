@@ -1,5 +1,3 @@
-![ieeusb logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVkUPA89SFoYjOnBDvEcjWTNXCkL74-ImAM4WVCXfGwAy1Hz-S)
-
 # e-brains Projects
 Projects developed by an Artificial Intelligence study group.
 
@@ -27,3 +25,4 @@ Study Group on Artificial Intelligence, which aims to form and propagate knowled
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
 - Use [Kaggle Learn](https://www.kaggle.com/learn/overview) as a helpful guide
 
+![ieeusb logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVkUPA89SFoYjOnBDvEcjWTNXCkL74-ImAM4WVCXfGwAy1Hz-S)
