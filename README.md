@@ -1,2 +1,2 @@
 # ebrainsProjects
-Projects developed for an Artificial Intelligence study group  
+Projects developed by an Artificial Intelligence study group.
