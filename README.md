@@ -1,5 +1,7 @@
-# e-brains Projects
+# E-Brains Projects
 Projects developed by an Artificial Intelligence study group.
+
+![fot logo](/pictures/ieee.PNG)
 
 #### Group Objective
 
